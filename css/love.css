@@ -67,7 +67,7 @@ body {
     width: 40px;
     height: 40px;
     position: absolute;
-    background: url("../images/r2.png") no-repeat;
+    background: url("../images/r1.jpeg") no-repeat;
     background-size: contain;
     /*background-color: #c40908;*/
     /*border: 1px solid silver;*/
@@ -181,9 +181,9 @@ body {
     float: right;
     border-top: 3px solid #000;
     transform-origin: right center;
-    -webkit-animation: border 7s linear 12s;
-    -o-animation: border 7s linear 12s;
-    animation: border 7s linear 12s;
+    -webkit-animation: border 7s linear 7s;
+    -o-animation: border 7s linear 7s;
+    animation: border 7s linear 7s;
     animation-fill-mode : both;
     /*border-bottom: none;*/
 }
